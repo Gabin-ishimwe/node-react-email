@@ -8,7 +8,7 @@ const main = async () => {
         service: "gmail",
         auth: {
             user: "g.ishimwe@alumni.alueducation.com",
-            pass: "tnrc mpne kake vkdi"
+            pass: "xxxxx"
         }
     })
     const htmlEmail = render(NotionMagicLinkEmail())
